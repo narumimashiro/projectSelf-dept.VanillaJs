@@ -1,5 +1,5 @@
 # **Repository for Self Learning (￣△￣\*)**
 
-## using **VanillaJs** / **CSS**
+### using **VanillaJs** / **CSS**
 
-## create by MPA
+### create by MPA
